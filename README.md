@@ -3,8 +3,8 @@
 I love to *read and travel*. Every year, I choose at least **two** international countries to visit. I also love to volunteer at shelters.   
 
 ## Websites I Recommend  
-- [Netflix](www.netflix.com) - This is the best streaming service for watching movies.  
-- [BBC](www.bbc.com) - I love reading about things happening in Europe and Africa.
+- [Netflix](https://www.netflix.com) - This is the best streaming service for watching movies.  
+- [BBC](https://www.bbc.com) - I love reading about things happening in Europe and Africa.
 
 
 
