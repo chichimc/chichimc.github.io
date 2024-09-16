@@ -6,10 +6,19 @@ I love to *read and travel*. Every year, I choose at least **two** international
 - [Netflix](https://www.netflix.com) - This is the best streaming service for watching movies.  
 - [BBC](https://www.bbc.com) - I love reading about things happening in Europe and Africa.
 
+    
 
 
 
+<br>
 
+
+
+  
+
+
+    
+## Introduction  
 
 1. Chinyere McAllister cumcallister@my.waketech.edu.  
 
