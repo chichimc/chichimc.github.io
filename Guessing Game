@@ -1,0 +1,11 @@
+## Random Guessing Game  
+
+'''mermaid
+flowchart TD
+subgraph Initialization
+Start([Start]) --> B[Set Range (min,max)]
+B --> C[Generate Random Number within Range]
+end
+D[Prompt User For Guess] --> E[Get User Input]
+E --> F {Is Guess Valid?}
+end
