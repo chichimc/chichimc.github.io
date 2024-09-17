@@ -2,7 +2,6 @@
 
 '''mermaid
 flowchart TD
-subgraph Initialization
 Start([Start]) --> B[Set Range (min,max)]
 B --> C[Generate Random Number within Range]
 end
