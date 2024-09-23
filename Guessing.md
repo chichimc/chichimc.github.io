@@ -12,4 +12,27 @@ flowchart TD
     
 ```
 
-The game begins and the player is prompted to enter their guess. The game checks if the input is a valid integer. If it is a valid integer, the game proceeds to the next step. If it is not a valid integer, the game displays "Invalid Guess. Try again!" and returns to the "Get User Input" step, so the user can guess another number. If the guess is a valid integer, the code checks if the guess is correct. If it is, the game displays "You Win!" and the game ends. However, if the guess is not correct, the game checks if the user's guess is higher or lower than the correct guess. If the guess is higher, the game displays "Too High. Try again!" and goes back to prompting the user to guess again. If no, the game displays "Too Low. Try again!", and goes back to prompting the user to guess again. 
+ **Game Flow**
+
+1. **Game Start**
+
+2. **Get User Input**
+   * Prompt the player to enter their guess.
+
+3. **Validate Input**
+   * **IF** the input is a valid integer:
+     * Proceed to the next step.
+   * **ELSE:**
+     * Display "**Invalid Guess. Try again!**"
+     * Return to the "Get User Input" step.
+
+4. **Check Guess**
+   * **IF** the guess is correct:
+     * Display "**You Win!**"
+     * End the game.
+   * **ELSE:**
+     * **IF** the guess is higher than the correct number:
+       * Display "**Too High. Try again!**"
+     * **ELSE:** (The guess is lower)
+       * Display "**Too Low. Try again!**"
+     * Return to the "Get User Input" step.
